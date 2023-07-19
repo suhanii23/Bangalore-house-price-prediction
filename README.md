@@ -1,1 +1,0 @@
-# Bangalore-house-price-prediction
